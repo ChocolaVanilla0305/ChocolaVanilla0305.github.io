@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: about
 title: "About"
 author: "ChocolaVanilla0305"
 permalink: /about/
