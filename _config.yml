@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Chocola's Blog
+description:    "Chocola的个人Blog"
 url:            "https://ChocolaVanilla0305.github.io"
 
 # Google Analytics
@@ -8,9 +8,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         ChocolaVanilla0305
+  url:          https://ChocolaVanilla0305.github.io
+  email:        chocolavanilla87@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -32,7 +32,7 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       5
+paginate:       15
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
